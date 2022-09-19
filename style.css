@@ -43,7 +43,7 @@ div[class*="button"] {
     font-size: 16px;
     line-height: 24px;
     text-align: center;
-    border-radius: 6px;
+    border-radius: 10px;
 }
 
 div[class*="button"]:hover {
